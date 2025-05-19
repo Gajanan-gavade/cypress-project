@@ -1,8 +1,8 @@
-name: hello-world
+name: Frist test case
 'on': push
 jobs:
   my-job:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "Hello World!"
+        run: echo "Frist test case"
