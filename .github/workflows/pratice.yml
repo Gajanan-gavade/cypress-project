@@ -1,4 +1,4 @@
-name: Frist test case
+name: Frist test case.1
 'on': push
 jobs:
   my-job:
